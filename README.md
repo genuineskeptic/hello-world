@@ -1,2 +1,5 @@
 # hello-world
-getting started with github
+
+i am from planet earth. 
+
+i am making edits to this file to practice for the real thing.
